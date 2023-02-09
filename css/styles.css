@@ -1,0 +1,60 @@
+body{
+    background-color: azure;
+}
+.heading{
+    width:30%;
+    float:left;
+}
+.heading h1{
+    padding-left:10px;
+}
+.navbar{
+    width:60%;
+    float:left;
+}
+nav{
+   padding-left:10px;
+}
+nav ul li{
+	float:left;
+	list-style:none;
+}
+ul a li{
+	display:block;
+	width: 100px;
+	height:50px;
+	color:black;
+	text-align:center;
+	line-height:50px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size: 12pt;
+	font-weight:bold;
+	border-radius:0px 10px;
+}
+.search-icon{
+    width:3%;
+    float:left;
+    padding-top:24px;
+}
+.search-icon img{
+    width:30px;
+}
+.login{
+    width:3%;
+    float:left;
+    padding-left:10px;
+    padding-top:10px;
+}
+.login a{
+	text-decoration:none;
+	text-transform:uppercase;
+    color:black;
+}
+.login a h4{
+    text-align: center;
+}
+.homepic img{
+    width:100%;
+    height:auto;
+}
